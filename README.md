@@ -41,7 +41,16 @@ This project involves developing a custom system programming command-line tool u
 ---
 
 ## Installation
-1. Clone the repository:
+1. Clone The Repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Arsyad2525/System-Programming.git
+2. Navigate to Project Directory:
+   ```bash
    cd System-Programming
+3. Verify Connection
+   ```bash
+   # Check Repository Status
+   git status
+   # Verify Remote Connection
+   git remote -v
+   
